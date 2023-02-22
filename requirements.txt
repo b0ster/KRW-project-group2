@@ -1,7 +1,5 @@
 numpy
 pandas
 seaborn
-scipy
-scikit-learn
 keras
-imblearn
+tensorflow
