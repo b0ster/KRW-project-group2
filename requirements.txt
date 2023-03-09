@@ -4,3 +4,4 @@ seaborn
 keras
 tensorflow
 networkx
+community
