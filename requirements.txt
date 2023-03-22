@@ -6,3 +6,4 @@ tensorflow
 networkx
 community
 shap
+plotly
