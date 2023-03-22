@@ -7,3 +7,4 @@ networkx
 community
 shap
 plotly
+kaleido
